@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a48e13c6fd6f69449c061ba23d51dab, type: 3}
+  m_Name: UP2
+  m_EditorClassIdentifier: 
+  id: 2
+  index: 2
+  core: {fileID: 11400000, guid: 5c4dfe306ba8faa45bd526b95c289079, type: 2}
+  icon: {fileID: -4663495232632260895, guid: d2f806cb38762174b9cb7a4edaa04348, type: 3}
+  background: {fileID: 1844316567468365872, guid: 2a5e057164a147b4b96795d0bcc8b97a, type: 3}
+  thumbnail: {fileID: 775016787734846736, guid: 94462a5f55a369c4097536ae4b5ac621, type: 3}
+  colorBackground: {r: 0.9803922, g: 0.8470589, b: 0.5058824, a: 1}
+  colorMiddleground: {r: 0.9333334, g: 0.72156864, b: 0.17254902, a: 1}
+  dataVocabulary:
+  - {fileID: 11400000, guid: d519ca47c1a01a44aa7ad539afadc980, type: 2}
+  - {fileID: 11400000, guid: c7243f20b0ac0f24f925fe3cba8b55e3, type: 2}
+  - {fileID: 11400000, guid: 6205cadae2539284caa5f8d54ca31f29, type: 2}
+  dataPhrases:
+  - {fileID: 11400000, guid: 0b33e9c6e0f67364baa97399dcf3a298, type: 2}
+  - {fileID: 11400000, guid: 8a7410138e066b34c8274579d4c3b92a, type: 2}
+  - {fileID: 11400000, guid: 40818429efc64e74f8ec866cab223d95, type: 2}
+  - {fileID: 11400000, guid: ecdadeaa86bf5794ca34cb5d6b86a8c8, type: 2}
+  - {fileID: 11400000, guid: a8b082663ed816a4bb6de4ffbacd9b1d, type: 2}
+  dataContent:
+  - {fileID: 11400000, guid: 892de91d630af7643bdde4ae276418f4, type: 2}
+  - {fileID: 11400000, guid: f9df274c61598764b8c671012a5f9245, type: 2}
+  - {fileID: 11400000, guid: c8c83d4c5af80e54e81c0b5844be49aa, type: 2}
+  - {fileID: 11400000, guid: 2b033c69112839b4886a855fc0e67258, type: 2}
+  - {fileID: 11400000, guid: 47b33a278d98ba34bb481768915285d1, type: 2}
+  - {fileID: 11400000, guid: 8c8ecb07b1cf3f24981e8fa58f6eddf7, type: 2}
+  - {fileID: 11400000, guid: 412fa1d8022f0034c962d9681fd903e2, type: 2}
+  - {fileID: 11400000, guid: 7976309698c7b1640bafd249ab228c9b, type: 2}
+  - {fileID: 11400000, guid: 3f118cdb088bd9d42af64cf405dc3dd9, type: 2}
+  - {fileID: 11400000, guid: b28879970ab04a84fbe6548a9a79b75b, type: 2}
+  - {fileID: 11400000, guid: f8ad5ff2b1428c640863b76e4edc0f27, type: 2}
+  - {fileID: 11400000, guid: beec0a7977f2494448d82fb763a2c1d4, type: 2}
+  - {fileID: 11400000, guid: df105004ebea3614a8d33217260f5972, type: 2}
+  - {fileID: 11400000, guid: f2e87893c551f744e9405cddef066064, type: 2}
+  - {fileID: 11400000, guid: 0f7c70e3c09a9a34c9af588b98e3ec39, type: 2}
+  - {fileID: 11400000, guid: af8167c54a9ea624caa3a4370db3bebe, type: 2}
+  - {fileID: 11400000, guid: e0b6a67388a1e1743b27dc2fcb540abe, type: 2}
+  - {fileID: 11400000, guid: ee5e6f258e13c7d4a845f47ef1614c33, type: 2}
+  - {fileID: 11400000, guid: fe562e8ddc7e37d468960307a1d77193, type: 2}
+  - {fileID: 11400000, guid: f0486912a4fcdb2448ecfcc3dce01867, type: 2}
+  - {fileID: 11400000, guid: 87eff0c184df2994c927c31ba037db2b, type: 2}
+  - {fileID: 11400000, guid: 216f06379b63d274e90794e55142a14f, type: 2}
+  - {fileID: 11400000, guid: 2e88b1eab5b923a40af3bb73cc0cbf27, type: 2}
+  totalGames: 19
+  totalVideos: 4
+  totalContent: 23

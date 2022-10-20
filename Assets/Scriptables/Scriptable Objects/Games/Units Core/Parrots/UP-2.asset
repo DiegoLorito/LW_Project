@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62dbc4dd3761ca7408e885e6f2253687, type: 3}
+  m_Name: UP-2
+  m_EditorClassIdentifier: 
+  code: UP-2
+  index: 1
+  Name: Space Monsters
+  description: "This unit focuses on activities and hobbies using the verb, \u201Cto
+    like.\u201D Students will learn to discuss hobbies in the first and third person."
+  icon: {fileID: -4663495232632260895, guid: d2f806cb38762174b9cb7a4edaa04348, type: 3}
+  background: {fileID: 1844316567468365872, guid: 2a5e057164a147b4b96795d0bcc8b97a, type: 3}
+  thumbnail: {fileID: 775016787734846736, guid: 94462a5f55a369c4097536ae4b5ac621, type: 3}
+  colorBackground: {r: 0.98039216, g: 0.84705883, b: 0.5058824, a: 1}
+  colorMiddleground: {r: 0.93333334, g: 0.72156864, b: 0.17254902, a: 1}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18c0235572119b49966fa695bbd3e2e, type: 3}
+  m_Name: SO_El_Pegamento
+  m_EditorClassIdentifier: 
+  icons:
+  - {fileID: 21300000, guid: 5306a93dcf1ba8041bc0783c6675d835, type: 3}
+  word: El pegamento
+  clip: {fileID: 8300000, guid: 81cc3c9e174e31f4b8a6c11acb7628a7, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}

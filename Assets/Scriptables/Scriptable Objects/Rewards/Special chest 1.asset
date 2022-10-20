@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc5d02e76cd8564ba272926ba538808, type: 3}
+  m_Name: Special chest 1
+  m_EditorClassIdentifier: 
+  category: 2
+  code: SC_1
+  rewards:
+  - {fileID: 11400000, guid: 97e36f60347a02648840c7e360f4272f, type: 2}
+  - {fileID: 11400000, guid: 1b5b5cc81f6bf2c488cfcfeab31bf91c, type: 2}
+  - {fileID: 11400000, guid: 23ec69fc8547bc74a8b27670838d44ed, type: 2}

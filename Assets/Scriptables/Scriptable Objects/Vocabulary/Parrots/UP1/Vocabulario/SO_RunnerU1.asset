@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec1ffe476e381b546bc7331f0d52bf92, type: 3}
+  m_Name: SO_RunnerU1
+  m_EditorClassIdentifier: 
+  icons: []
+  word: 
+  InCorrectWord: 
+  clip: {fileID: 0}
+  clipCorrecto: {fileID: 0}
+  auIncorrecto: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  valCorrect: 0
+  vocab:
+  - {fileID: -64173813401275195, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: -5776483850731019453, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: -4353965884333858788, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: -1714674516104217326, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: 607498580106204378, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: 3594794888489610726, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: -2430846839644569578, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: -404151867795720831, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  vocabIncorrect: []
+  vocabUI:
+  - {fileID: -3269262020656397538, guid: 640817d83d7e5ba41869f79aeece3cf5, type: 3}
+  - {fileID: -2989159555362377458, guid: 640817d83d7e5ba41869f79aeece3cf5, type: 3}
+  - {fileID: 4590440942989673536, guid: 640817d83d7e5ba41869f79aeece3cf5, type: 3}
+  - {fileID: -5327734146984925414, guid: 640817d83d7e5ba41869f79aeece3cf5, type: 3}
+  - {fileID: 835515226133500373, guid: 640817d83d7e5ba41869f79aeece3cf5, type: 3}
+  - {fileID: 2650825621989277458, guid: 640817d83d7e5ba41869f79aeece3cf5, type: 3}
+  - {fileID: -2941490216712088652, guid: 640817d83d7e5ba41869f79aeece3cf5, type: 3}
+  - {fileID: -3809421659165584531, guid: 640817d83d7e5ba41869f79aeece3cf5, type: 3}
+  - {fileID: 1244242134035457049, guid: 640817d83d7e5ba41869f79aeece3cf5, type: 3}
+  - {fileID: 3706203342780786911, guid: 640817d83d7e5ba41869f79aeece3cf5, type: 3}
+  clipVocab:
+  - {fileID: 8300000, guid: 7d8d1dd2eefd37645b0b07d6ed143df0, type: 3}
+  - {fileID: 8300000, guid: 8255017e01aff1a4b8f5e3f4b408ae12, type: 3}
+  - {fileID: 8300000, guid: fd2c148684b42a14984ad9c8d5789743, type: 3}
+  - {fileID: 8300000, guid: 321b5a0592ddcb94383f81626d3006a8, type: 3}
+  - {fileID: 8300000, guid: ef48da5e813574e4dbc04c4dee6dcfb0, type: 3}
+  - {fileID: 8300000, guid: b4f919ea1bd6b7f478952a9887018ba4, type: 3}
+  - {fileID: 8300000, guid: 0bbc4b4ff3baa3346a25c3863893dc29, type: 3}
+  - {fileID: 8300000, guid: c8008d925177b08479512d585164515f, type: 3}
+  - {fileID: 8300000, guid: c64c66adcd491c94ab95fde73b94eecf, type: 3}
+  - {fileID: 8300000, guid: f5b6a8cac4c073548831c6f8046b3ac4, type: 3}
+  oracionVocab: []

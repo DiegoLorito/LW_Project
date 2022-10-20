@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18c0235572119b49966fa695bbd3e2e, type: 3}
+  m_Name: SO_La_Crayola
+  m_EditorClassIdentifier: 
+  icons:
+  - {fileID: -64173813401275195, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: -5776483850731019453, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: -4353965884333858788, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: -1714674516104217326, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: 607498580106204378, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: 3594794888489610726, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: -2430846839644569578, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  - {fileID: -404151867795720831, guid: ff34d7fbeb1f482438d50fcbab6f52b0, type: 3}
+  word: La crayola
+  InCorrectWord: 
+  clip: {fileID: 8300000, guid: b980b38925a74c544877e898cefb0b55, type: 3}
+  clipCorrecto: {fileID: 0}
+  auIncorrecto: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  valCorrect: 0

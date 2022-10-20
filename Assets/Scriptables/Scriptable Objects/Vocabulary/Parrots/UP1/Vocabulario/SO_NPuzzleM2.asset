@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efc1bdec09ad5cc4a9717cd1e94c3451, type: 3}
+  m_Name: SO_NPuzzleM2
+  m_EditorClassIdentifier: 
+  icons: []
+  word: 
+  InCorrectWord: 
+  clip: {fileID: 0}
+  clipCorrecto: {fileID: 0}
+  auIncorrecto: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  valCorrect: 0
+  objNPuzzle:
+  - {fileID: 7221224438351060203, guid: 2160e27daccb69f47aaedf5fc9ffcd26, type: 3}
+  - {fileID: 7090913801637243387, guid: 6a1eeaceb6957114a8fe1e0411e66668, type: 3}
+  - {fileID: 2633570001780680092, guid: d28750b4d5f25a342857c8d8ae8583ba, type: 3}
+  objPos: {fileID: 3444693526028644667, guid: 7c7bc34698bd3634080bd7580b8ca74c, type: 3}
+  vocabNPuzzle:
+  - Uno
+  - Dos
+  - Hay dos loros.
+  clipNPuzzle:
+  - {fileID: 8300000, guid: 6da1dc7d47b4e35498645f362f3a9102, type: 3}
+  - {fileID: 8300000, guid: 92c81195042d24d4a8ed3ad6e9c149e5, type: 3}
+  - {fileID: 8300000, guid: f09b3b1729fce1b4c874940ce0ec2dab, type: 3}
+  correctRound: 030000000400000002000000

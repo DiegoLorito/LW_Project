@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18c0235572119b49966fa695bbd3e2e, type: 3}
+  m_Name: SO_Rosado
+  m_EditorClassIdentifier: 
+  icons:
+  - {fileID: 21300000, guid: a5edf6f6f7f0beb47835518d3c51d86c, type: 3}
+  word: Rosado
+  InCorrectWord: 
+  clip: {fileID: 8300000, guid: e6621dfca9e0f394cb7c0700b8cf5e2e, type: 3}
+  clipCorrecto: {fileID: 0}
+  auIncorrecto: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  valCorrect: 0

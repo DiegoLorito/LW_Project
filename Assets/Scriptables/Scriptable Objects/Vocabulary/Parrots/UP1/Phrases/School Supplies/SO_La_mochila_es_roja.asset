@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4f9b1bfb26477d4ca50d79638d82f9e, type: 3}
+  m_Name: SO_La_mochila_es_roja
+  m_EditorClassIdentifier: 
+  traduction: 
+  original: La mochila es roja
+  clip: {fileID: 8300000, guid: dcbfed9b739fc1f48ab4eef53b1c8b07, type: 3}

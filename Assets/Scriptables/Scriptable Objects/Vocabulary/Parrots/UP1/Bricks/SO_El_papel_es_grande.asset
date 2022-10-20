@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18c0235572119b49966fa695bbd3e2e, type: 3}
+  m_Name: SO_El_papel_es_grande
+  m_EditorClassIdentifier: 
+  icons:
+  - {fileID: 21300000, guid: 7eebb36d8a1b16e4aba57f41e4e78c0e, type: 3}
+  - {fileID: 21300000, guid: 7eebb36d8a1b16e4aba57f41e4e78c0e, type: 3}
+  word: Grande
+  InCorrectWord: 
+  clip: {fileID: 8300000, guid: a0b59564c0a701d42859dbe4236fb067, type: 3}
+  clipCorrecto: {fileID: 0}
+  auIncorrecto: {fileID: 8300000, guid: 50c88eb831b312f44b56de6728156f1b, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  valCorrect: 0

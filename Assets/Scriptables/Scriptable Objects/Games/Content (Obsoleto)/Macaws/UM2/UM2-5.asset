@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f21dd3d6782814db0e3b3c55a0ebfc, type: 3}
+  m_Name: UM2-5
+  m_EditorClassIdentifier: 
+  category: 0
+  code: UM2-5
+  Name: Describe It
+  icon: {fileID: 1455075837772998265, guid: 47d9870454b690d45b6bcb22a6c50e54, type: 3}
+  type: 0
+  rewards: []
+  vocabulary:
+  - {fileID: 11400000, guid: 6045152ef17edd5499a8b0aa2286b11c, type: 2}
+  - {fileID: 11400000, guid: dacfa54e47b786644834b756d9a47d8a, type: 2}
+  - {fileID: 11400000, guid: 723859eddb8f54a44ba8828f57c95f25, type: 2}
+  - {fileID: 11400000, guid: 84047e0910617b1469e0d6569138a125, type: 2}
+  - {fileID: 11400000, guid: 95f5189cf909ace4a9bdc71116f554b7, type: 2}
+  - {fileID: 11400000, guid: e5bbc569500936d488bde305b761d9f0, type: 2}
+  phrases: []
+  PeanutsHfv: []
+  obj: []
+  templateCode: 
+  assetsCode: 

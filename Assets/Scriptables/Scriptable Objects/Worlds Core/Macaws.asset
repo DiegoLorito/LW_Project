@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 011cf67c4c56e194cbf3e00ea0d2526a, type: 3}
+  m_Name: Macaws
+  m_EditorClassIdentifier: 
+  id: 2
+  Name: Macaws
+  minAge: 6
+  maxAge: 10
+  icon: {fileID: 7584590381606471934, guid: 0b4a96c1567680a44bef8bfd8cfe423f, type: 3}
+  color: {r: 0.44705883, g: 0.6509804, b: 0.972549, a: 1}
