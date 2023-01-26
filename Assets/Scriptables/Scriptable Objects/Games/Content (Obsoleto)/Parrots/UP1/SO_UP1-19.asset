@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f21dd3d6782814db0e3b3c55a0ebfc, type: 3}
+  m_Name: SO_UP1-19
+  m_EditorClassIdentifier: 
+  category: 0
+  code: TP_06 Spelling
+  Name: Spelling
+  icon: {fileID: 33077097517357959, guid: 3a8949a3fab05d24fbdb30cc163c8772, type: 3}
+  type: 0
+  rewards: []
+  vocabulary:
+  - {fileID: 11400000, guid: 252b1cddf9b9bcb4782394a7dfde4395, type: 2}
+  - {fileID: 11400000, guid: 8fd4b50b7b46e8a45b21531fb78dd41f, type: 2}
+  - {fileID: 11400000, guid: a17f6955a188fb24a90630ed75dd6d68, type: 2}
+  phrases: []
+  PeanutsHfv: []
+  obj: []
+  templateCode: 
+  assetsCode: 

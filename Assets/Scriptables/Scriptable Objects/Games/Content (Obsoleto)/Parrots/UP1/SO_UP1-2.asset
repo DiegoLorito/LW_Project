@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f21dd3d6782814db0e3b3c55a0ebfc, type: 3}
+  m_Name: SO_UP1-2
+  m_EditorClassIdentifier: 
+  category: 0
+  code: TP_03 Peanuts Parrots
+  Name: Peanuts
+  icon: {fileID: 21300000, guid: c8f52f661cfced24a8ee8e4c6e50861b, type: 3}
+  type: 0
+  rewards: []
+  vocabulary:
+  - {fileID: 11400000, guid: 92090791d0e41bf4b89c944c6e848f91, type: 2}
+  - {fileID: 11400000, guid: 67198c8773ac845458228fcfb13a3f1d, type: 2}
+  - {fileID: 11400000, guid: 65a3aaba91f2ed246bae1d764beff418, type: 2}
+  - {fileID: 11400000, guid: 61f1637dc7e82394280684ac78e71a05, type: 2}
+  - {fileID: 11400000, guid: dfa18100232741b45b9c9e9a9f03af91, type: 2}
+  - {fileID: 11400000, guid: e1f3d28603832ab498975993aeab1083, type: 2}
+  - {fileID: 11400000, guid: 1562822428c7d864787d6ddd82fc3965, type: 2}
+  - {fileID: 11400000, guid: 6d6c325aa0bc6354696ea5b24027d424, type: 2}
+  phrases: []
+  PeanutsHfv:
+  - {fileID: 11400000, guid: 28aa4c29431893446aa1a1b7abd23742, type: 2}
+  - {fileID: 11400000, guid: dcc5ed9fe1df2ef45998c758d01281e1, type: 2}
+  - {fileID: 11400000, guid: 8a1db91bd96f5f546b800070eb231202, type: 2}
+  - {fileID: 11400000, guid: ff52c8e3e8e13e244ab20c8886b3f017, type: 2}
+  - {fileID: 11400000, guid: ea2b41d7417e5a04ba0b97d3cfafc500, type: 2}
+  - {fileID: 11400000, guid: 871bae4ac61ecaf4fbc9d6db675aa6d2, type: 2}
+  - {fileID: 11400000, guid: bc131aebf11ed334f91a71cdc204709a, type: 2}
+  - {fileID: 11400000, guid: 355b41f78b9632f4ca78e47adb31d9d7, type: 2}
+  - {fileID: 11400000, guid: 713c24291cd8f4f4bb41d4924f8fdaac, type: 2}
+  - {fileID: 11400000, guid: 2308624018a9c014a95a0b160d8bb76c, type: 2}
+  - {fileID: 11400000, guid: bdc64b95e812f0741954c5bf90103baf, type: 2}
+  - {fileID: 11400000, guid: 97cea15a90ad57b44834e54c851a396b, type: 2}
+  obj: []
+  templateCode: 
+  assetsCode: 

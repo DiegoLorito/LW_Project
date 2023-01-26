@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee84565368f5b4d4ea2a3044a2b2ad0b, type: 3}
+  m_Name: Catalog Worlds
+  m_EditorClassIdentifier: 
+  data:
+  - {fileID: 11400000, guid: 2855e9c76ec509548b9289f10e50b89b, type: 2}
+  - {fileID: 11400000, guid: 19ef1413353f6f546a51733807a246b2, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b81dfbc4c2d4c046a2432963824229c, type: 3}
+  m_Name: Invalid birth year
+  m_EditorClassIdentifier: 
+  title: Oh no!
+  description: Please enter a valid year of birth
+  image: {fileID: -2592873102402669163, guid: 4d78bac92dfa2514f818be9d79dab109, type: 3}
+  iconColor: {r: 0.6117647, g: 0.6117647, b: 0.6117647, a: 1}
+  hasButtonClose: 0
+  settButton1:
+    hasIcon: 0
+    text: Continue
+  settButton2:
+    hasIcon: 0
+    text: 
+  type: 1

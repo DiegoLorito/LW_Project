@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18c0235572119b49966fa695bbd3e2e, type: 3}
+  m_Name: SO_La_Tijera
+  m_EditorClassIdentifier: 
+  icons:
+  - {fileID: 21300000, guid: 00ec2896d118216428ff71c0c56567ee, type: 3}
+  word: La tijera
+  InCorrectWord: 
+  clip: {fileID: 8300000, guid: 9e26e84743c99a94f86a664c31fd950a, type: 3}
+  clipCorrecto: {fileID: 0}
+  auIncorrecto: {fileID: 8300000, guid: 779bfaa0521c61a428f14ce174ecb5f7, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  valCorrect: 0

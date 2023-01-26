@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4f9b1bfb26477d4ca50d79638d82f9e, type: 3}
+  m_Name: SO_Hay_10_papeles.
+  m_EditorClassIdentifier: 
+  traduction: 
+  original: Hay 10 papeles.
+  clip: {fileID: 8300000, guid: 64cbb9bb35b4d24478de82e309c7748c, type: 3}

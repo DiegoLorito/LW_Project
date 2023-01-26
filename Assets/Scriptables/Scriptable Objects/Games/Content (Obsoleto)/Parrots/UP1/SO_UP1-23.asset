@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f21dd3d6782814db0e3b3c55a0ebfc, type: 3}
+  m_Name: SO_UP1-23
+  m_EditorClassIdentifier: 
+  category: 0
+  code: TP_25 Shadows
+  Name: Shadows
+  icon: {fileID: 21300000, guid: 9cb4f7fbf8c2bf6469837ad7ba8f618c, type: 3}
+  type: 0
+  rewards: []
+  vocabulary:
+  - {fileID: 11400000, guid: 061c3bf826e77c64a93325aa33b36128, type: 2}
+  - {fileID: 11400000, guid: ce9d12a2370fef54ea751b03fd6308f5, type: 2}
+  - {fileID: 11400000, guid: 82318ebe69520ab44b2585f8a0d37a4c, type: 2}
+  - {fileID: 11400000, guid: d5e1d88f022fae44390e35a74e4101a4, type: 2}
+  - {fileID: 11400000, guid: 3b5d1ce59a571a14883aadbda9057c71, type: 2}
+  - {fileID: 11400000, guid: b0e8723a28121da4899301359ad493f9, type: 2}
+  - {fileID: 11400000, guid: 99a071980193c9c44aa4526eeb6485ed, type: 2}
+  - {fileID: 11400000, guid: 216cec6e68b2be844b3583df6133bafa, type: 2}
+  phrases:
+  - {fileID: 11400000, guid: 8987fed5760db334fb6bac0cc995c5e3, type: 2}
+  - {fileID: 11400000, guid: c5ef592334597d242b2285f45adfb406, type: 2}
+  - {fileID: 11400000, guid: 3b56ff440d6722a4ba26b13602faafb0, type: 2}
+  - {fileID: 11400000, guid: 7b9ac1dd9518d3d4db153f87475c21ea, type: 2}
+  PeanutsHfv: []
+  obj: []
+  templateCode: 
+  assetsCode: 

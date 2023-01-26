@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73b77e35112781b4c8b52036455262e9, type: 3}
+  m_Name: Sticker C
+  m_EditorClassIdentifier: 
+  type: 1
+  icon: {fileID: -9017436595799998132, guid: 3245a6f28cf39924cb18d708bdfca3c9, type: 3}
+  code: 
+  empty: {fileID: -2044808394489275688, guid: c777e17417c1a0643ac85ff3a2125442, type: 3}
+  fill: {fileID: -9017436595799998132, guid: 3245a6f28cf39924cb18d708bdfca3c9, type: 3}
+  character: {fileID: 7405460190592229195, guid: 0f399b2c788cb834ba3add397f7622ba, type: 3}
+  nameCharacter: Letter C
+  vocabulary:
+  - {fileID: 11400000, guid: ce9d12a2370fef54ea751b03fd6308f5, type: 2}
+  - {fileID: 11400000, guid: 851dce6b1571fab418f247cc133bac24, type: 2}
+  - {fileID: 11400000, guid: 3266c5c2a5f285f4795537b1ec5aa8de, type: 2}

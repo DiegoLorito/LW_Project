@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f21dd3d6782814db0e3b3c55a0ebfc, type: 3}
+  m_Name: SO_UP1-22
+  m_EditorClassIdentifier: 
+  category: 0
+  code: TP_16 Bricks
+  Name: Bricks
+  icon: {fileID: 21300000, guid: acbdcb6939f3c614682b23df2837b548, type: 3}
+  type: 0
+  rewards: []
+  vocabulary:
+  - {fileID: 11400000, guid: a4007804ad47852458a061b52235c54b, type: 2}
+  - {fileID: 11400000, guid: db683b839db1d5e45b1796e9f8389436, type: 2}
+  - {fileID: 11400000, guid: 7b8a23475e657294b947d16fdec1676a, type: 2}
+  - {fileID: 11400000, guid: 0d2a94c28633cf6439391e0bdba3b385, type: 2}
+  - {fileID: 11400000, guid: 793a23ee3a3e80e449af3b9727a6fd89, type: 2}
+  - {fileID: 11400000, guid: ea4a30e49aeae2042838c0f2227f7f53, type: 2}
+  - {fileID: 11400000, guid: 57dfb1ca1a6e275469cfed666ad1e305, type: 2}
+  - {fileID: 11400000, guid: 892a1301f97066a47a87fc0c5861e2a8, type: 2}
+  phrases: []
+  PeanutsHfv: []
+  obj: []
+  templateCode: 
+  assetsCode: 
